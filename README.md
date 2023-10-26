@@ -1,9 +1,4 @@
-The TechTalk Blog
-TechTalk Blog is a blog dedicated to exploring the world of coding, programming, and software development. It is a place where you can find articles on a variety of topics.
-
-
 #  Crypto Currency Get Api
-
 This is a cryptocurrency application that provides users with information and the current price of various cryptocurrencies.
 
 
